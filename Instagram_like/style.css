@@ -43,7 +43,7 @@ body{
     opacity: 0;
     transition: transform ease 0.4s;
 }
-.container .text {
+.text {
     position: absolute;
     color: white;
     font-weight: 200;
